@@ -1,1 +1,1 @@
-console.log('Contianer!!');
+import("./bootstrap");
